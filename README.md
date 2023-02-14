@@ -1,2 +1,2 @@
-# django
-This repository is for Django App
+# Django
+This repository is for Django Application created from Linux Virtual Machine.
